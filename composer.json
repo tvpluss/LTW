@@ -1,0 +1,15 @@
+{
+    "name": "dell/mvc_php_pyroject_clone",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "tvpluss",
+            "email": "truongphuocst310301@gmail.com"
+        }
+    ],
+    "require": {}
+}
